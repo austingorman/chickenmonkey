@@ -5,7 +5,7 @@
             console.log('ChickenMonkey') 
             } else if ([i] % 7 === 0) {
                 console.log('Monkey')
-        } else if ([i] % 5 === 0) {
+            } else if ([i] % 5 === 0) {
                 console.log('Chicken')    
             } else {
                 console.log([i])
